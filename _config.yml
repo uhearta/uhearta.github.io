@@ -79,8 +79,7 @@ theme: Sakura
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: 
-    git@github.com:uhearta/uhearta.github.io.git
+  repo: git@github.com:uhearta/uhearta.github.io.git
     # github: https://github.com/honjun/honjun.github.io.git
     #coding: https://git.coding.net/hojun/hojun.git
   branch: master
@@ -89,8 +88,7 @@ deploy:
 backup:
   type: git
   message: backup my blog of https://uhearta.github.io/
-  repository:
-    github: https://github.com/uhearta/uhearta.github.io.git,backup
+  repository: https://github.com/uhearta/uhearta.github.io.git,backup
     #coding: https://git.coding.net/hojun/hojun.git,backup
 
 #RSS

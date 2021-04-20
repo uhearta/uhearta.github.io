@@ -90,7 +90,7 @@ backup:
   type: git
   message: backup my blog of https://uhearta.github.io/
   repository:
-     github: https://github.com/uhearta/uhearta.github.io.git,backup
+     github: git@github.com:uhearta/uhearta.github.io.git,backup
     #coding: https://git.coding.net/hojun/hojun.git,backup
 
 #RSS
